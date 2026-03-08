@@ -123,15 +123,12 @@ export function getApplicableRules(config: ConfigState) {
   const disabledTransmissions: string[] = [];
   const disabledPackages: string[] = [];
 
-  // Model-based engine rules
   if (config.model?.id === "sedan") disabledEngines.push("v8");
-  
-  // Electric engine forces automatic transmission
+
   if (config.engine?.id === "electric") {
     disabledTransmissions.push("manual-6", "dct");
   }
 
-  // Electric excludes tow package
   if (config.engine?.id === "electric") {
     disabledPackages.push("tow");
   }

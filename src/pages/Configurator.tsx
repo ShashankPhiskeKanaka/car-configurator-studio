@@ -312,7 +312,7 @@ export default function Configurator() {
             )}
           </div>
 
-          {/* Price Summary - Mobile: bottom sheet, Desktop: inline */}
+          {/* Price Summary - Mobile */}
           <div className="lg:hidden border-t border-border">
             <PriceSummary config={config} />
           </div>
