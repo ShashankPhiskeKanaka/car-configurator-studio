@@ -1,0 +1,13 @@
+Initial Step :
+(I submitted the documnet provided for Enterprise Car Configurator)
+Build the project provided inside the document, use ReactJS for frontend along with tailwind for css. Use modern animations and a
+UI design which is appealing. For the configurator part, if possible use a 3d model to showcase the parts being configured.
+
+Second Step :
+If possible add real life car model, for eg : models of BMW or Mercedes to use in the configurator, show the configurations being 
+applied to the car. ( did not work )
+
+Third Step :
+Free3D and sketch fab have free models to use from, use the real life car models from there, show the configurations being applied
+to the car. (did not work)
+
