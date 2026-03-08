@@ -1,0 +1,13 @@
+First Prompt : 
+(I provided the document for the Enterprise Car Configurator)
+Go through the document, dont miss any detail. Build the project provided inside the document. Use ReactJs for frontend, tailwind for css.
+Use modern animations and appealing ui. For the configurator, use 3d models that the users can interact with. show the configurations
+being applied to the model.
+
+Second Prompt :
+If possible use 3d models of real brands and cars, in configurater show the changes being applied to them
+(unsuccessful)
+
+Third Prompt :
+Sketchfab and free3d have 3d models that you can use from, use real car brands and models and show the configurations being applied
+(unsuccessful)
